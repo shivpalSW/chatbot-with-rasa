@@ -1,2 +1,5 @@
 models/
 models/*
+models/.gz
+.rasa/*
+.db*
